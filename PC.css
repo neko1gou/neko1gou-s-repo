@@ -1,3 +1,6 @@
+html{
+    font-size: 200%;
+}
 div.menu{
     display:grid;
     width: 100%;
