@@ -22,3 +22,7 @@ div.menu{
     grid-column:4;
     grid-row:1;
 }
+.about{
+    display: flex;
+    justify-content: center;
+}
