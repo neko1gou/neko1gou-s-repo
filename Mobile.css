@@ -22,3 +22,6 @@ div.menu{
     grid-column:4;
     grid-row:1;
 }
+.about{
+    text-align: center;
+}
