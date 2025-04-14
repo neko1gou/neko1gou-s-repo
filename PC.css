@@ -3,9 +3,9 @@ html{
 }
 div.menu{
     display:grid;
-    width: 150%;
+    width: 100%;
     grid-template-columns:25% 25% 25% 25%;
-    grid-template-rows:25px;
+    grid-template-rows:40px;
     text-align:center;
     font-family:impact;
 }
