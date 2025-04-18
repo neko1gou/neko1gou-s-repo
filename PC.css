@@ -29,4 +29,5 @@ div.menu{
     font-size: 125%;
     display: flex;
     justify-content: center;
+    margin: 0 auto;
 }
